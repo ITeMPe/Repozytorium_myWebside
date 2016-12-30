@@ -1,0 +1,115 @@
+#Start
+{
+	padding:5px;
+	margin:10px;
+	width:300px;
+	height:850px;
+	background-color:#eeddcc;
+	float:left;
+}
+#Alfabet
+{
+	padding:5px;
+	margin:auto;
+	margin-top:145px;
+	width:280px;
+	height:400;
+	background-color:#aabbcc;
+}
+
+
+
+
+#Rozgrywka
+{
+	padding:5px;
+	margin:10px;
+	width:760px;
+	height:850px;
+	background-color:#ccddee;
+	float:left;
+	
+}
+#Haslo_Odgadywane
+{
+	padding:5px;
+	margin:10px;
+	width:740px;
+	height:60px;
+	text-align:center;
+	font-size:24px;
+	font-weight:bold;
+	background-color:#ccbbaa;
+}
+#Image
+{
+	text-align:center;
+	padding:15px;
+	margin:10px;
+	margin-top:30px;
+	width:720px;
+	min-height:240px;
+	background-color:#654456;
+}
+#LiteryAlfabetu
+{
+	text-align:center;
+	margin:auto;
+	background-color:#aabbcc;
+	width:560px;
+	 height:370px;
+}
+.Restart
+{
+	margin-left: 10px;
+	text-align: center;
+	padding: 10px;
+	color: blue;
+	font-size:30px;
+	width: 190px;
+	height: 60px;
+	background: darkgray;
+	cursor: pointer;
+	border: solid 3px red;
+	border-radius: 15px;
+	    
+}
+.Restart:hover
+{
+	background: gray;
+	font-size: 34px;
+
+}
+.Tekst
+{
+	margin-top: 30px;
+	text-align: center;
+	padding: 10px;
+	color: blue;
+	font-size:20px;
+}
+.litera
+{
+	width:30px;
+	height:30px;
+	padding:10px;
+	margin:10px;
+	text-align:center;
+	font-size:26px;
+	font-weight:bold;
+	float:left;
+	border:3px solid gray;
+	border-radius:15px;
+	cursor:pointer;
+}
+.litera:hover
+{
+	background-color:#7070aa;
+	border:3px solid black;
+}
+
+
+img
+{
+	margin:20px;
+}
